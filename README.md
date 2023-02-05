@@ -15,3 +15,7 @@ Build: ```make```<br/>
 Run: ```make run```<br/>
 Run static analysis: ```make analyze```<br/>
 Clean: ```make clean```<br/>
+
+
+Here are some metrics:<br/><br/>
+![Screenshot 2023-02-06 011712](https://user-images.githubusercontent.com/7083803/216851597-7f8f92d4-eee6-49d3-8027-cb0ae8504ff7.png)
