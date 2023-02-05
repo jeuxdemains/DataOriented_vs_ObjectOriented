@@ -1,5 +1,5 @@
 # Data Oriented Programming vs Object Oriented Programming
-A simple Data Oriented Design (DOD) vs. Object Oriented Design (OOD) demo example with performance stats for the performance interested coders out there.
+A simple Data Oriented Design (DOD) vs. Object Oriented Design (OOD) demo example with performance stats for the performance oriented coders out there.
 
 OOP is meant for the people. To express their ideas and thoughts and abstract them in more human-friendly way.
 Computers however, don't like objects. They like well structured data.
