@@ -9,7 +9,8 @@ It uses multithreading and local machine instruction set level optimizations for
 
 # Notes on compilation
 The build system uses clang++ but you can change it in the Makefile.<br/>
-It uses OpenMP to perform multithreading. Read the comments in the code for more info on how to tweak it and to what degree.
+It uses OpenMP to perform multithreading. Read the comments in the code for more info on how to tweak it and to what degree.<br/>
+Note that we restrict the compiler optimizations with the -O0 flag so it doesn't mess with the code and you can observe the actual difference.
 
 Build: ```make```<br/>
 Run: ```make run```<br/>
